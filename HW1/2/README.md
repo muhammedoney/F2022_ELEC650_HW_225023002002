@@ -5,6 +5,7 @@ simulation results.
 <p >
   <img src="2a.png" title="hover text">
 </p>
+Simulation results are as follows :
 <p align="center">
   <img src="HW1_2a.png" title="hover text">
 </p>
@@ -12,6 +13,7 @@ simulation results.
 <p >
   <img src="2a.png" title="hover text">
 </p>
+Simulation results are as follows :
 <p align="center">
   <img src="HW1_2b.png" title="hover text">
 </p>
