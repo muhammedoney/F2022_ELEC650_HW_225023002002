@@ -8,7 +8,7 @@ Carry out)
 
 Simulation results are as follows :
 <p align="center">
-  <img src="HW1_3a.png" title="hover text">
+  <img src="HW1_3a.png" title="hover text" height=100>
 </p>
 
 b. (10) 1-bit full adder module using half adders FA(S, Co, A, B, C) with inputs A, B, C (A, B are numbers
@@ -16,7 +16,7 @@ and C is the carry input) outputs S, Co (Sum, Carry out)
 
 Simulation results are as follows :
 <p align="center">
-  <img src="HW1_3b.png" title="hover text">
+  <img src="HW1_3b.png" title="hover text" height=120>
 </p>
 
 c. (30) 16-bit Ripple Carry Adder module using full adders RCA (S, Co, A, B, C) with inputs A, B, C (A, B are
@@ -25,5 +25,5 @@ format.
 
 Simulation results are as follows :
 <p align="center">
-  <img src="HW1_3c.png" title="hover text">
+  <img src="HW1_3c.png" title="hover text" height=120>
 </p>
