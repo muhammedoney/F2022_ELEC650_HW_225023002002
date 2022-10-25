@@ -1,5 +1,5 @@
-# HW1.1
-1.Write the Verilog models and testbenches of the following Boolean expressions. Provide your codeand simulation results.
+# HW1.2
+2.Write the Verilog models and testbenches of the following logic circuits. Provide your code andsimulation results.
 
 a.(10 pts) F(A,B,C) = A’B’C’ + A’BC + AB’C + ABC’
 <p align="center">
