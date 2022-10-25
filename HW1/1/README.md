@@ -3,9 +3,9 @@
 
 a.(10 pts) F(A,B,C) = A’B’C’ + A’BC + AB’C + ABC’
 <p align="center">
-  <img src="HW1_1a.png" width="720" title="hover text">
+  <img src="HW1_1a.png" title="hover text">
 </p>
 b.(10 pts) F(A,B,C) = ABC + AB’C + AB’C’ + A’B’C
 <p align="center">
-  <img src="HW1_1b.png" width="720" title="hover text">
+  <img src="HW1_1b.png" title="hover text">
 </p>
